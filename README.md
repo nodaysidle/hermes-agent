@@ -1,3 +1,5 @@
+<img src=".github/social-preview.png" alt="Hermes Agent — NODAYSIDLE" width="100%">
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
